@@ -1,0 +1,15 @@
+# Compiled MQL4 binaries
+*.ex4
+*.ex5
+
+# MetaEditor backup / temp files
+*.mq4~
+*.mq5~
+*.bak
+
+# MetaEditor history
+.history/
+
+# OS files
+.DS_Store
+Thumbs.db
